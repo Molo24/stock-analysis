@@ -103,7 +103,7 @@ We can also see this analysis ran in 0.086 seconds!
 #### What are the advantages or disadvantages of refactoring code?
 The obvious benefit of refactoring code is making the code more efficient to run. This becomes more obvious as the data volume gets larger and larger. It would become very advantageous if you were running this same analysis on the entire S&P 500 versus just 12 stocks.
 
-Additionally, refactoring your code forces the writer to think more aggressively about their code structure and methodology. Through iteration and testing you learn how to become more efficient. Hopefully this means the next time you have to perform a similar task that you begin with a mroe efficient code structure.
+Additionally, refactoring your code forces the writer to think more aggressively about their code structure and methodology. Through iteration and testing you learn how to become more efficient. Hopefully this means the next time you have to perform a similar task that you begin with a more efficient code structure.
 
 The only real disadvantage is the time is takes to go through the refactoring process. Depending on the scope of the project it may not require refactoring to accomplish your task.
 
