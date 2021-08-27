@@ -3,9 +3,7 @@
 ## Overview of Project
 The purpose of this project was to analyze stock returns over a two year (2017 & 2018) period for 12 companies. Specifically, Total Daily Volumes and Starting/Ending Prices for each stock were collected. VBA script was developed, then refactored (edited to make more efficient), to parse the daily stock returns and to provide a clean formatted table that allows the reader to quickly determine performance of each stock involved.
 
-### Purpose
-
-## Analysis and Challenges
+## Analysis
 Because the the volume of data (over 3,000 lines of returns for both years) and the nature of the analysis (finding the starting and ending prices for each stock), parsing the data using traditional Excel functions would be a cumbersome challenge to replicate year-over-year as the data set changes in scale. To overcome these challenges and to create a process that could be replicated for any year, the analysis uses VBA script to compile the data needed.
 
 The major steps of the VBA script include:
